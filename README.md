@@ -2,7 +2,8 @@
 
 # 基于pymysql学生选课系统的设计与实现
 
-C_N_U IE 的计算机视觉课程的期中实验考核，着重于传统计算机视觉方法实现车牌检测与识别。
+C_N_U IE 的数据库原理课程设计，基于pymysql学生管理系统的设计与实现，包括学生端，教师端和管理员端页面与功能。
+
 
 C_N_U IE's database principles course final design, design and implementation of pymysql based student course manage system
 
