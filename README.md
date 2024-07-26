@@ -1,20 +1,21 @@
 
 
-# 传统视觉方法实现车牌检测与识别
+# 基于pymysql学生选课系统的设计与实现
 
 C_N_U IE 的计算机视觉课程的期中实验考核，着重于传统计算机视觉方法实现车牌检测与识别。
 
-Mid-term examination for C_N_U IE's computer vision course focusing on traditional computer vision methods to achieve licence plate detection and recognition.
+C_N_U IE's database principles course final design, design and implementation of pymysql based student course manage system
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div style="text-align:center;">
-    <img src="fig/relation2.png" alt="fig/relation2.png" width="220" height="200" />
-</div>
 <p align="center">
   <a>
-    <img src="fig/relation.png" alt="Logo" width="400" height="100">
+    <img src="fig/relation2.png" alt="Logo" width="300" height="270">
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img src="fig/relation.png" alt="Logo" width="550" height="150">
   </a>
   <h3 align="center">ER图</h3>
   <p align="center">
@@ -23,8 +24,9 @@ Mid-term examination for C_N_U IE's computer vision course focusing on tradition
 
 ## 目录
 
-1. [数据库概述](#数据库概述)
-2. [表结构](#表结构)
+1. [演示视频](#演示视频)
+2. [数据库概述](#数据库概述)
+3. [表结构](#表结构)
     - [admin_login_k](#admin_login_k)
     - [course](#course)
     - [s_course](#s_course)
@@ -32,9 +34,11 @@ Mid-term examination for C_N_U IE's computer vision course focusing on tradition
     - [student_k](#student_k)
     - [tea_login_k](#tea_login_k)
     - [teacher_k](#teacher_k)
-3. [数据示例](#数据示例)
-4. [外键约束](#外键约束)
-5. [编码与设置](#编码与设置)
+4. [数据示例](#数据示例)
+5. [外键约束](#外键约束)
+
+## 演示视频
+
 
 ## 数据库概述
 
