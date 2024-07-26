@@ -38,7 +38,7 @@ C_N_U IE's database principles course final design, design and implementation of
 5. [外键约束](#外键约束)
 
 ## 演示视频
-
+https://github.com/user-attachments/assets/8c773fc3-14f9-4af5-a51e-0f15e9a34a89
 
 ## 数据库概述
 
@@ -205,14 +205,7 @@ database = 'database'
 <p align="center">
   <img src="fig/admin2.png" alt="图片1" width="300" height="200"/>
 </p>
-### 效果
 
-
-
-
-
-###### **视频车牌检测*
-<iframe width="300" height="300" src="https://github.com/LLIKKE/License_Plate_Recognition/blob/master/video_result.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### 作者
 
